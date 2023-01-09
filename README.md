@@ -7,7 +7,7 @@
 ## Run Docker Keycloack
 
 ```
-docker run -p 8081:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin1234 quay.io/keycloak/keycloak:20.0.2 start-dev
+docker run -p 8081:8080 -d -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin1234 quay.io/keycloak/keycloak:20.0.2 start-dev
 ```
 
 **__Modules__**
