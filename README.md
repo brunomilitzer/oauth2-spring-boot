@@ -15,3 +15,4 @@ docker run -p 8081:8080 -d -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=ad
 1. [Keycloak Resource Server](https://github.com/brunomilitzer/oauth2-spring-boot/tree/master/keycloak-resource-server)
 2. [Spring Authorization Server](https://github.com/brunomilitzer/oauth2-spring-boot/tree/master/spring-authorization-server)
 3. [Order Resource Server](https://github.com/brunomilitzer/oauth2-spring-boot/tree/master/order-resource-server)
+4. [Order Web OAuth Client](https://github.com/brunomilitzer/oauth2-spring-boot/tree/master/orders-web-oauth-client)
